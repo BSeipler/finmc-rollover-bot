@@ -1,0 +1,20 @@
+{
+  "name": "rollover-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Blake Seipler",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-expat": "^2.3.18",
+    "nodemon": "^2.0.4",
+    "xml2json": "^0.12.0"
+  }
+}
